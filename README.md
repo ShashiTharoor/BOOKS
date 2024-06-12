@@ -2,13 +2,14 @@
 # TREE VIEW OF ALL BOOKS
 
 
-```├── 1. 150
+```
+├── 1. 150
 │   ├── 1000 Useful Words - Build Vocabulary and Literacy Skills by Dawn Sirett.pdf
 │   ├── 365 Days With Self-Discipline by Meadows, Martin.epub
 │   ├── A Mind For Numbers by Barbara Oakley.epub
 │   ├── A New History of Western Philosophy,Volume 2 - Medieval Philosophy by Anthony Kenny.pdf
 │   ├── A Passion for Mathematic by Clifford A. Pickover.pdf
-│   ├── A Thousand Brains by Jeff Hawkins.pdf```
+│   ├── A Thousand Brains by Jeff Hawkins.pdf
 │   ├── A Wish in the Dark by Christina Soontornvat [Soontornvat, Christina] (z-lib.org).epub
 │   ├── Against Empathy The Case for Rational Compassion by Paul Bloom.pdf
 │   ├── All About Love New Visions by Bell Hooks.epub
@@ -321,6 +322,6 @@
 ├── sun-tzu_art-of-war.pdf
 ├── thinking-fast-and-slow-9780141918921-0374533555-9780374533557-0141918926.epub
 ├── tree.txt
-└── vdoc.pub_meditations-a-new-translation.epub
+└── vdoc.pub_meditations-a-new-translation.epub```
 
 10 directories, 312 files
